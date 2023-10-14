@@ -1,6 +1,5 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pet_tech;
 
-import jakarta.persistence.EntityNotFoundException;
 import java.util.Collection;
 import java.util.Optional;
 import java.util.UUID;

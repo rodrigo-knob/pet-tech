@@ -1,4 +1,4 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pet_tech;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pet_tech;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

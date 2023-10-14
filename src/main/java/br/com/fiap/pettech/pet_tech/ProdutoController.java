@@ -1,7 +1,6 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pet_tech;
 
 import java.util.Collection;
-import java.util.Optional;
 import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatusCode;

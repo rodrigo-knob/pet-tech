@@ -1,4 +1,4 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pet_tech;
 
 import jakarta.servlet.http.HttpServletRequest;
 import java.time.Instant;

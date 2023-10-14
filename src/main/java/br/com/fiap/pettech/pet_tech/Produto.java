@@ -1,4 +1,4 @@
-package br.com.fiap.pettech.pettech;
+package br.com.fiap.pettech.pet_tech;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
