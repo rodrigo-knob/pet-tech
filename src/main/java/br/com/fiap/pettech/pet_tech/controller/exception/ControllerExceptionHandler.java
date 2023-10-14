@@ -1,4 +1,4 @@
-package br.com.fiap.pettech.pet_tech;
+package br.com.fiap.pettech.pet_tech.controller.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import java.time.Instant;
